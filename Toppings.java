@@ -27,4 +27,8 @@ public class Toppings {
     public getPrice() {
         return price;
     }
+    
+    public void toppingLayout() {
+        
+    }
 }
